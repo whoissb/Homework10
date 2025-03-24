@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Movie Database</string>
+    <string name="movie_poster">Movie Poster</string>
+    <string name="year_label">Year: %1$d</string>
+    <string name="genre_label">Genre: %1$s</string>
+    <string name="error_loading_data">Error loading movie data</string>
+    <string name="error_file_not_found">Movie data file not found</string>
+    <string name="error_json_format">JSON format error</string>
+    <string name="no_movies_available">No movies available</string>
+    <string name="title_placeholder">Unknown Title [ERROR]</string>
+    <string name="year_placeholder">Unknown Year [ERROR]</string>
+    <string name="genre_placeholder">Unknown Genre [ERROR]</string>
+    <string name="year_error">Year data error [ERROR]</string>
+    <string name="year_error_format">Year: %1$d [FORMAT ERROR]</string>
+    <string name="genre_error">Genre data error [ERROR]</string>
+    <string name="movies_loaded">Successfully loaded %1$d movies</string>
+    <string name="movies_loaded_with_errors">Successfully loaded %1$d movies (Detected %2$d data errors)</string>
+    <string name="title_inferred_count">Including %1$d movies with title errors</string>
+</resources>
